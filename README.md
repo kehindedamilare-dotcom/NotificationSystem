@@ -98,6 +98,7 @@ python Create_Database.py
 ```
 
 This creates `templates.db` with two tables: `templates` and `notification_logs`.
+Although, the current `templates.db` already contains useful templates and should not be deleted unless users want to use a new and different set of templates.
 
 ### Running the service
 
